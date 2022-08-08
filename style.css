@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+    /* width: 50%; */
+    /* margin-left: 100px; */
+
+}
+
+ @media screen and (min-width : 425px ) {
+
+    h1
+{
+    /* background-color: green; */
+     color: grey;
+       /* font-size: 50px; */
+    font-weight: bold;
+    box-shadow: 10px 10px 10px black;
+    margin: 80px;
+ } 
+ } 
+
+ 
+ @media screen and (min-width : 423px ) {
+
+    h1
+{
+    /* background-color: green; */
+     color: grey;
+       /* font-size: 50px; */
+    font-weight: bold;
+    box-shadow: 10px 10px 10px black;
+    margin: 80px;
+ } 
+ }
+
+
+/* h1
+{
+    /* background-color: green; */
+    /* color: grey; */
+    /* font-size: 50px;
+    font-weight: bold;
+    box-shadow: 10px 10px 10px black; */
+    /* margin: 80px; */
+/* } */
+ 
+ @media screen and (min-width : 520px ) {
+
+    h1
+{ 
+     /* background-color: green; */
+     color: grey;
+     font-size: 50px;
+    font-weight: bold;
+    box-shadow: 10px 10px 10px black;
+    margin: 80px;
+ } 
+} 
+.www{
+    height: 25px;
+
+    /* margin: 50px; */
+    /* background-color: black; */
+}
+
+
+
+.www:active
+{
+    
+
+    background-color: blue;
+
+
+}
+
+
+.Btn{
+    height: 30px;
+    /* width: 30px; */
+    margin: 5px;
+    /* background-color: purple; */
+    font-weight: bold;
+    
+
+
+}
+
+
+
+.Btn:active{
+    /* margin: 10px; */
+    background-color: red;
+}
+
+#abc{
+
+
+    background-color: gray;
+    /* margin-left: 350px; */
+    /* align-items: center; */
+
+    /* text-align: center; */
+}
